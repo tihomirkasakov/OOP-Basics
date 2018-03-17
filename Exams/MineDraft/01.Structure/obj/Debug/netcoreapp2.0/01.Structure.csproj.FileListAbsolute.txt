@@ -1,0 +1,11 @@
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\bin\Debug\netcoreapp2.0\01.Structure.deps.json
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\bin\Debug\netcoreapp2.0\01.Structure.runtimeconfig.json
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\bin\Debug\netcoreapp2.0\01.Structure.runtimeconfig.dev.json
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\bin\Debug\netcoreapp2.0\01.Structure.dll
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\bin\Debug\netcoreapp2.0\01.Structure.pdb
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\obj\Debug\netcoreapp2.0\01.Structure.csprojResolveAssemblyReference.cache
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\obj\Debug\netcoreapp2.0\01.Structure.csproj.CoreCompileInputs.cache
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\obj\Debug\netcoreapp2.0\01.Structure.AssemblyInfoInputs.cache
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\obj\Debug\netcoreapp2.0\01.Structure.AssemblyInfo.cs
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\obj\Debug\netcoreapp2.0\01.Structure.dll
+c:\users\tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\01.Structure\obj\Debug\netcoreapp2.0\01.Structure.pdb

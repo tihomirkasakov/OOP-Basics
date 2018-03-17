@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\bin\Debug\01.Structure.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\bin\Debug\01.Structure.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\bin\Debug\01.Structure.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\obj\Debug\01.Structure.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\obj\Debug\01.Structure.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\obj\Debug\01.Structure.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\Avatar2\01.Structure\obj\Debug\01.Structure.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\bin\Debug\netcoreapp2.0\04.Bonus.deps.json
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\bin\Debug\netcoreapp2.0\04.Bonus.runtimeconfig.json
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\bin\Debug\netcoreapp2.0\04.Bonus.runtimeconfig.dev.json
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\bin\Debug\netcoreapp2.0\04.Bonus.dll
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\bin\Debug\netcoreapp2.0\04.Bonus.pdb
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\obj\Debug\netcoreapp2.0\04.Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\obj\Debug\netcoreapp2.0\04.Bonus.AssemblyInfoInputs.cache
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\obj\Debug\netcoreapp2.0\04.Bonus.AssemblyInfo.cs
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\obj\Debug\netcoreapp2.0\04.Bonus.dll
+C:\Users\Tihomir\documents\visual studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\obj\Debug\netcoreapp2.0\04.Bonus.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\OOP Basics Exam - 16.07.2017\04.Bonus\obj\Debug\netcoreapp2.0\04.Bonus.csprojResolveAssemblyReference.cache
