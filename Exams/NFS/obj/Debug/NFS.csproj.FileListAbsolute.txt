@@ -1,0 +1,7 @@
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\bin\Debug\NFS.exe.config
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\bin\Debug\NFS.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\bin\Debug\NFS.pdb
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\obj\Debug\NFS.csprojResolveAssemblyReference.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\obj\Debug\NFS.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\obj\Debug\NFS.exe
+C:\Users\Tihomir\Documents\Visual Studio 2017\Projects\examprep\NFS\obj\Debug\NFS.pdb
